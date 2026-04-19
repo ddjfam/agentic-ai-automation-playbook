@@ -1,5 +1,7 @@
 # Agentic AI Automation Playbook
 
+![Agentic AI Automation Playbook cover](images/cover.png)
+
 Portfolio repository showcasing agent design, evaluation, orchestration, and low-code automation use cases across enterprise and cross-platform environments.
 
 ## Overview
