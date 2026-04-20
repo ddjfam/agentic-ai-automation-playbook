@@ -29,6 +29,16 @@ Organizations are increasingly using AI agents and workflow automation to improv
 
 This repository shows how I would structure and communicate agentic AI work through practical portfolio artifacts.
 
+## Delivered Outcomes
+
+Representative outcomes from agent and workflow automation work include:
+
+- Reduced more than 3,000 manual actions per month through automation and improved compliance visibility.
+- Cut vendor invoice cycle time in half through AI-assisted triage and approval routing.
+- Reduced misrouted IT tickets by 40% through automated classification and assignment.
+- Deflected up to 60% of L1 support tickets with AI-powered self-service assistance.
+- Reduced onboarding time by 35% and improved day-one readiness through workflow automation.
+
 ## Focus Areas
 
 - agent design and orchestration
