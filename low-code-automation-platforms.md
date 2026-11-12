@@ -1,5 +1,7 @@
 # Low-Code and Automation Platforms
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Overview
 
 Agentic AI does not operate in isolation. In many enterprise settings, useful AI experiences depend on workflow tools, routing logic, structured forms, notifications, approvals, data capture, and integrations that connect AI outputs to real operational steps.

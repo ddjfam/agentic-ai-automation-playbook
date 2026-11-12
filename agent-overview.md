@@ -1,5 +1,7 @@
 # Agent Overview
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Background
 
 Agentic AI is becoming an important part of workflow automation, decision support, and operational design. In practice, useful agents do more than generate text. They help users complete work, navigate decisions, route information, summarize context, and support repeatable processes.

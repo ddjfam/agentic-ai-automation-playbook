@@ -1,5 +1,7 @@
 # Adoption and Operating Model
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Overview
 
 Agentic AI creates value only when it is adopted, trusted, and integrated into real workflows. Strong delivery therefore requires more than building an agent. It requires an operating model that defines ownership, review, escalation, measurement, support, and continuous improvement.

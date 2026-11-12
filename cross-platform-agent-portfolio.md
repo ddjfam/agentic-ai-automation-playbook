@@ -1,5 +1,7 @@
 # Cross-Platform Agent Portfolio
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Overview
 
 This document organizes a broad portfolio of agent and GPT-style work across multiple domains and platforms. The goal is not to present a raw list of tools, but to show repeatable patterns in how agentic AI can support workflows, decision-making, knowledge access, and operational efficiency.

@@ -1,5 +1,7 @@
 # Evaluation and Guardrails
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Overview
 
 Agentic AI systems are only useful when their outputs are reliable enough for the workflow they support. This means evaluation and guardrails should be treated as core product requirements, not optional add-ons.

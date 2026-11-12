@@ -1,5 +1,7 @@
 # Enterprise Use Cases
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Overview
 
 This document outlines example enterprise use cases for agentic AI and workflow automation. These examples are designed to show how AI agents can support real operational workflows when paired with clear routing, review logic, and measurable business value.
