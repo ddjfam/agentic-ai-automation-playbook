@@ -8,6 +8,10 @@ I start with the business process: where work is lost, delayed or repeated, whic
 
 **[Employee AI idea screening](ai-governance-idea-screening.md)** — I built an intake agent that applies governance-oriented guidance, captures missing information and supports evidence-based reuse recommendations with human review. Includes a fictional public example.
 
+## AI education and capability building
+
+**[AI education, mentoring & advisory leadership](ai-education-and-advisory.md)** — OLLU Strategic AI Advisory Board service, Corporate Risk AI mentoring, **40+ colleagues trained**, a **15-template prompt playbook**, and Air Force curriculum development. Includes a proposed employee workshop using fictional examples.
+
 ## Experience to review first
 
 | Case | My contribution | Scale / status |
