@@ -4,6 +4,10 @@
 
 I start with the business process: where work is lost, delayed or repeated, which decisions need human judgment, and what evidence would justify investment. My contribution connects enterprise intake and prioritization to practical prototypes, controls and adoption.
 
+## AI governance in practice
+
+**[Employee AI idea screening](ai-governance-idea-screening.md)** — I built an intake agent that applies governance-oriented guidance, captures missing information and supports evidence-based reuse recommendations with human review. Includes a fictional public example.
+
 ## Experience to review first
 
 | Case | My contribution | Scale / status |
@@ -34,6 +38,6 @@ The **70/30 approach** is a workflow-design prompt: explore whether AI can absor
 | Additional use-case patterns | [Enterprise use cases](enterprise-use-cases.md) · [Cross-platform concepts](cross-platform-agent-portfolio.md) |
 | Agent scope and boundaries | [Agent overview](agent-overview.md) |
 
-The two experience cases distinguish my contribution, team outcomes and program forecasts. Supporting playbooks describe reusable design patterns and illustrative concepts.
+The experience cases distinguish my contribution, team outcomes and program forecasts. Supporting playbooks describe reusable design patterns and illustrative concepts.
 
 [Profile](https://github.com/ddjfam) · [Reengineering CoE toolkit](https://github.com/ddjfam/process-engineering-playbook) · [Workflow requirements](https://github.com/ddjfam/servicenow-workflow-automation)
