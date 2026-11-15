@@ -66,6 +66,10 @@ The following are proposed public design considerations, not claims about every 
 
 These are suggested measures, not reported results. Avoided duplicate investment would require validation of the actual alternative cost and confirmed reuse; a similarity match alone is not a savings claim.
 
+## Framework selection as an intake extension
+
+[Choosing AI governance frameworks](ai-governance-framework-selection.md) adds a reusable method for capturing jurisdictions, affected people, autonomy and candidate obligations, then connecting selected guidance to controls and evidence. This is a proposed extension to the public screening pattern, not a claim that the original agent implemented all listed frameworks.
+
 ## Leadership relevance
 
 This work connects AI governance, use-case intake, portfolio decisions, control design, human oversight and employee enablement. It shows how I translate requirements into a practical capability that helps people make better-supported decisions.

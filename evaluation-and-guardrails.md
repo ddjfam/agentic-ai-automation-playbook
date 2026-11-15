@@ -226,3 +226,7 @@ This document is generalized and anonymized for portfolio use.
 ## From guidance to implementation
 
 See [Agent configuration & validation](agent-configuration-and-validation.md) for a practical mapping of workflow instructions, reference files, schemas and test specifications to agent behavior. Documents express requirements; runtime checks, evaluations and accountable reviewers determine whether those requirements are met.
+
+## Governance reference selection
+
+Use [Choosing AI governance frameworks](ai-governance-framework-selection.md) to connect applicable obligations and selected standards to control owners, test evidence and review decisions. The mappings are illustrative; passing evaluations alone does not establish legal compliance or certification.

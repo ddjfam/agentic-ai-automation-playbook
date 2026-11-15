@@ -8,6 +8,8 @@ I start with the business process: where work is lost, delayed or repeated, whic
 
 **[Employee AI idea screening](ai-governance-idea-screening.md)** — I built an intake agent that applies governance-oriented guidance, captures missing information and supports evidence-based reuse recommendations with human review. Includes a fictional public example.
 
+**[Choosing AI governance frameworks](ai-governance-framework-selection.md)** — a practical reference covering laws, standards and technical guidance, with intake questions, control evidence and human decision boundaries.
+
 ## Preparing agents for reliable work
 
 **[Agent configuration & validation](agent-configuration-and-validation.md)** — workflow playbooks, source authority, business rules, terminology, output checks, exception handling and regression evaluation. A generalized method with synthetic test examples; distinct from model fine-tuning.
